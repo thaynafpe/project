@@ -14,4 +14,4 @@
 
 #Autores 
 
-<sub>Thayná Felippe</sub>(https://github.com/thaynafpe) 
+<br><sub>Thayná Felippe</sub>](https://github.com/thaynafpe) 

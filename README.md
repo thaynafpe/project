@@ -13,5 +13,8 @@
 
 #Autores 
 
-| [<img loading="lazy" src="[https://avatars.githubusercontent.com/u/118750406?v=4](https://avatars.githubusercontent.com/u/118750406?s=400&u=12a99e3b4b13b7d7232f158ad1cd9013f4c22aa5&v=4))><br><sub>Thayná Felippe</sub>](https://github.com/thaynafpe) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/118750406?s=400&u=12a99e3b4b13b7d7232f158ad1cd9013f4c22aa5&v=4))><br><sub>Thayná Felippe</sub>](https://github.com/thaynafpe) |
 | :---: | :---: | :---: |
+
+
+
